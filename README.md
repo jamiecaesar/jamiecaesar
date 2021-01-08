@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Jamie's github stats](https://github-readme-stats.vercel.app/api?username=jamiecaesar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on Network Automation projects for customers - generally a mix of Ansible and Python
+- 🌱 I’m currently learning HTML/CSS/Javascript/VueJS & Vuetify for building front ends for small custom automation tools
 
 <!--
 **jamiecaesar/jamiecaesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
